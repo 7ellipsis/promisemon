@@ -1,0 +1,22 @@
+{
+  "name": "promisemon",
+  "version": "1.0.0",
+  "description": "The ultimate pokedex you will ever need",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pokedex",
+    "pokemon",
+    "nintendo",
+    "promise",
+    "pokeapi"
+  ],
+  "author": "Ashay Mandwarya",
+  "license": "ISC",
+  "dependencies": {
+    "memory-cache": "^0.2.0",
+    "request-promise": "^4.2.5"
+  }
+}
